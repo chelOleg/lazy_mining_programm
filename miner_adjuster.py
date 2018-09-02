@@ -1,7 +1,5 @@
 import os
 from subprocess import Popen
-from time import sleep
-import os
 
 class MinerAdjuster:
     def __init__(self):
